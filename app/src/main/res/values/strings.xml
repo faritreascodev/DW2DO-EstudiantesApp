@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppEstudiantes</string>
+    <string name="title_activity_lista_estudiantes">ListaEstudiantesActivity</string>
+    <string name="title_activity_registro_estudiante">RegistroEstudianteActivity</string>
+</resources>
